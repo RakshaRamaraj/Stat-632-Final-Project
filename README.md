@@ -12,6 +12,10 @@ Number of rows: 1338
 
 Number of variables: 7
 
+# Data Description
+
+This data shows individual medical costs billed by health insurance companies for a calender year. The data has basic information of the primary policy holder.
+
 # List of variables with description:
 
 • Age: Age of primary beneficiary
@@ -27,3 +31,7 @@ Number of variables: 7
 • Region: The beneficiary's residential area in the US, northeast, southeast, southwest, and northwest.
 
 • Charges: Individual medical costs billed by health insurance or the cost is for one calendar year.
+
+# Goal:
+
+To understand how the basic information (predictor variables ) affect the total charges (response variable ).
