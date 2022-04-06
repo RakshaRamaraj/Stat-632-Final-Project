@@ -35,3 +35,5 @@ This data shows individual medical costs billed by health insurance companies fo
 # Goal:
 
 To understand how the basic information (predictor variables ) affect the total charges (response variable ).
+
+
