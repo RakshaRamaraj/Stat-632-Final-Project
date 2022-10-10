@@ -1,5 +1,5 @@
-# Stat-632-Final-Project
-# Analysis of Factors Driving Health Insurance Premium
+#  Multilinear Regression Analysis of Factors Driving Health Insurance Premium
+# 
 # Scope: 
 
 Insurance companies have been using predictive analysis methods to calculate risk and set premiums for their policies. The insurance premiums are driven by various factors like Age, Sex, BMI etc. This paper aims to show how these factors affect the cost of the insurance price with the help of Linear Regression. Linear regression is a supervised learning approach. It uses the best fit line to build a link between the dependent variable y and one or more independent variables x. It also helps us understand how accurate our model is in predicting the charges with the given variables
